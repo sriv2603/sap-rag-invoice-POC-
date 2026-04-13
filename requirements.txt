@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-openai
-python-dotenv
-numpy
-scikit-learn
 pydantic
+ollama
+numpy
